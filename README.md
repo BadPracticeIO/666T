@@ -1,2 +1,2 @@
 # 666T
-Third concept 100T
+The third concept for 100 Thieves.
